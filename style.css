@@ -33,3 +33,7 @@ body {
 h2 {
     height: 25px;
 }
+
+table {
+    border=4
+}
