@@ -1,10 +1,10 @@
-h1, h2, h3{
+h1, h2, h3, h4, h5{
     background-color:rgb(7, 7, 7);
     font-style: italic 
 }
 
 body {
-    background-color:rgb(97, 97, 242);
+    background-color:rgb(121, 176, 249);
     margin: 10px;
     padding: 10px;
     border-radius: 50%;
@@ -23,7 +23,7 @@ nav {
 }
 
 body {
-    color: rgb(116, 238, 40);
+    color: rgb(98, 247, 5);
 }
 
 .crappie {
@@ -32,8 +32,9 @@ body {
 }
 
 h2 {
-    height: 25px;
+    height: 40px;
     text-align:center;
+    font-size: 40px;
 }
 
 table, th, td {
@@ -49,3 +50,12 @@ input {
     height: 30px;
     font-size: 15px; 
 }
+
+h3 {
+    font-size: 35px;
+}
+
+h4{
+    font-size: 25px;
+}
+
