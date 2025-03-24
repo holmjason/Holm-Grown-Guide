@@ -1,10 +1,10 @@
 h1, h2, h3, h4, h5{
-    background-color:rgb(40, 18, 95);
+    background-color:rgb(59, 2, 203);
     font-style: italic 
 }
 
 body {
-    background-color:rgb(3, 64, 145);
+    background-color:rgb(25, 1, 87);
     margin: 10px;
     padding: 10px;
     border-radius: 50%;
@@ -78,4 +78,3 @@ a:link {
 a:visited {
     color:rgb(131, 248, 35);
 }
-
