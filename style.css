@@ -59,6 +59,7 @@ h3 {
 
 h4{
     font-size: 25px;
+    backgroun-color: rgb(3, 8, 0);
 }
 
 .video {
@@ -79,6 +80,3 @@ a:visited {
     color:rgb(131, 248, 35);
 }
 
-h4 {
-    backgroun-color: rgb(3, 8, 0);
-}
