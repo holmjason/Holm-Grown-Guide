@@ -78,3 +78,7 @@ a:visited {
 p {
     font-size: 20px;
 }
+
+.logo {
+    height: 100%;
+    width: 100%;
