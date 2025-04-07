@@ -46,7 +46,8 @@ table, th, td {
 }
 
 input {
-    font-size: 20px; 
+    font-size: 20px;
+    width: 75%;
 }
 
 h3 {
