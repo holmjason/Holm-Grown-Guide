@@ -29,8 +29,6 @@ body {
 .crappie {
     border-radius: 50%; 
     overflow: hidden;
-    height: 300px;
-    width: 350px;
 }
 
 h2 {
