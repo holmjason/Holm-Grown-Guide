@@ -86,3 +86,23 @@ p {
 .calendar {
 width: 75%;
 }
+
+.card {
+    background-color: rgb(5, 75, 144);
+    color: rgb(229, 229, 250);
+}
+
+.fish {
+    height: 400px;
+    width: auto;
+}
+
+.accordion-body {
+    background-color: rgb(5, 75, 144);
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(229, 229, 250);
+    font-size: 20px;
+}
+
