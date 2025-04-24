@@ -86,8 +86,8 @@ p {
 }
 
 .fish {
-    height: 400px;
-    width: auto;
+    height: 100%;
+    width: 100%;
 }
 
 .accordion-body {
